@@ -1,7 +1,7 @@
 # love.sound
 
 <b><i>
-사운드 파일을 읽어들이는 모듈입니다. 이 모듈은 사운드를 재생하지는 못합니다. 실제 동작은 [love.audio](api/love.audio)에서 합니다.
+사운드 파일을 읽어들이는 모듈입니다. 이 모듈은 사운드를 재생하지는 못합니다. 실제 동작은 [love.audio](ko-kr/api/love.audio)에서 합니다.
 효과음같은 짧은 사운드는 SoundData, 배경음같은 긴 사운드는 Decoder를 사용하는 것이 좋습니다. 왜 그런지에 대한 이유는 각 타입을 참조하세요.
 </b></i>
 
@@ -22,7 +22,7 @@
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 - [love.sound.newDecoder](https://love2d.org/wiki/love.sound.newDecoder_(한국어))
 
 | 이름                                                                        | 설명                                                | 비고  |
@@ -43,8 +43,8 @@
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
-- [Data](api/data)
+- [Object](ko-kr/api/love?id=Object)
+- [Data](ko-kr/api/data)
 - [love.sounds.newSoundData](https://love2d.org/wiki/love.sound.newSoundData_(한국어))
 
 | 이름                                                                          | 설명                                                        | 비고  |

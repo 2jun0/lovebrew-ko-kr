@@ -27,7 +27,7 @@ LOVE에서 제공하는 객체(또는 유저데이터)들은 모든 스레드에
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 - [love.thread.newThread](https://love2d.org/wiki/love.thread.newThread_(한국어))
 
 | 이름                                                           | 설명                                             | 비고 |
@@ -44,7 +44,7 @@ LOVE에서 제공하는 객체(또는 유저데이터)들은 모든 스레드에
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 - [love.thread.newChannel](https://love2d.org/wiki/love.thread.newChannel_(한국어))
 
 | 이름                                                                  | 설명                                                                              | 비고  |

@@ -2,7 +2,7 @@
 
 ## 전제조건
 
-[개발 환경 설정](building?id=getting-started)에 대한 지침을 따르세요.
+[개발 환경 설정](ko-kr/building?id=getting-started)에 대한 지침을 따르세요.
 
 ## 방법
 
@@ -14,7 +14,7 @@ LÖVE Potion이 실행되면 먼저 자신의 *RomFS(읽기 전용 파일 시스
 
 당신의 LÖVE Potion 프로젝트를 기억하기 쉬운 디렉터리에 보관하세요. `devkitPro` 폴더에 **_절대_** LÖVE Potion 데이터, 게임, **_또는_** 다른 바이너리를 **_넣지 마십시오_**. 데스크톱이나 Dropbox와 같은 클라우드 스토리지에 보관하세요.
 
-LÖVEBrew 애플리케이션에 더 많은 정보를 얻고 싶다면 [여기를 참고하세요](lovebrew)
+LÖVEBrew 애플리케이션에 더 많은 정보를 얻고 싶다면 [여기를 참고하세요](ko-kr/lovebrew)
 
 ### LÖVE 실행 파일
 
@@ -22,7 +22,7 @@ LÖVEBrew 애플리케이션에 더 많은 정보를 얻고 싶다면 [여기를
 
 [공식 LÖVE 위키](https://love2d.org/wiki/Game_Distribution#Create_a_.love-file)에서 '`love` 파일을 만드는 법'을 참고하세요.
 
-LÖVE 바이너리가 생성되면, [config.zip 파일을 다운로드](files/config.zip ':ignore')하세요. 그후 config.zip 내 `lovepotion.cfg` 파일을 스위치 마이크로 SD 카드 `/nx-hbmenu/config/fileassoc`에 복사하세요. `LovePotion` 폴더가 `/switch` 안에 있을 수도 있습니다. LÖVE Potion의 최신 사본만 누락된 것이니 [최신 *.nro 바이너리](https://github.com/TurtleP/LovePotion/releases)를 다운로드하여 `LovePotion` 폴더에 저장하세요.
+LÖVE 바이너리가 생성되면, [config.zip 파일을 다운로드](../files/config.zip ':ignore')하세요. 그후 config.zip 내 `lovepotion.cfg` 파일을 스위치 마이크로 SD 카드 `/nx-hbmenu/config/fileassoc`에 복사하세요. `LovePotion` 폴더가 `/switch` 안에 있을 수도 있습니다. LÖVE Potion의 최신 사본만 누락된 것이니 [최신 *.nro 바이너리](https://github.com/TurtleP/LovePotion/releases)를 다운로드하여 `LovePotion` 폴더에 저장하세요.
 
 마지막으로 새 *SuperGame.love* 파일을 마이크로 SD 카드의 `/switch` 폴더에 넣고 홈브류 메뉴를 여세요. 이제 실행할 수 있는 항목으로 표시됩니다.
 
@@ -32,4 +32,4 @@ LÖVE 바이너리가 생성되면, [config.zip 파일을 다운로드](files/co
 
 디버그를 위한 가장 빠른 방법은 `game` 폴더를 통한 것입니다. [최신 *.nro 혹은 *.3dsx 바이너리](https://github.com/TurtleP/LovePotion/releases)파일을 다운로드하고 `/switch/LovePotion`(혹은 `/3ds/LovePotion`) 안에 넣으세요. `LovePotion` 디렉터리가 없다면 새로 생성하면 됩니다.
 
-`/switch/LovePotion`(혹은 `/3ds/LovePotion`)안에 `game` 디렉터리를 만드세요. 여기에 모든 소스파일을 담으세요. 닌텐도 3DS에서는 텍스처와 글꼴을 특수 형식으로 변환해야 합니다. `tex3ds`와 `mkbcfnt`를 사용하여 수동으로 변환할 수 있지만 [LÖVEBrew 애플리케이션](lovebrew)에서 `raw`구성 항목을 `true`로 설정하는 방식이 제일 쉽습니다. 모든 작업이 완료되면 홈브류 메뉴를 열고 LÖVE Potion 항목을 실행하면 게임이 실행됩니다!
+`/switch/LovePotion`(혹은 `/3ds/LovePotion`)안에 `game` 디렉터리를 만드세요. 여기에 모든 소스파일을 담으세요. 닌텐도 3DS에서는 텍스처와 글꼴을 특수 형식으로 변환해야 합니다. `tex3ds`와 `mkbcfnt`를 사용하여 수동으로 변환할 수 있지만 [LÖVEBrew 애플리케이션](ko-kr/lovebrew)에서 `raw`구성 항목을 `true`로 설정하는 방식이 제일 쉽습니다. 모든 작업이 완료되면 홈브류 메뉴를 열고 LÖVE Potion 항목을 실행하면 게임이 실행됩니다!

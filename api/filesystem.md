@@ -68,7 +68,7 @@ love.filesystem은 아래의 두 위치에만 접근하는 것을 허용합니�
 
 더보기:
 - [love.filesystem.newFile](https://love2d.org/wiki/love.filesystem.newFile_(한국어))
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 
 | 이름                                                          | 설명                                            | 비고                                                        |
 |--------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|
@@ -97,8 +97,8 @@ love.filesystem은 아래의 두 위치에만 접근하는 것을 허용합니�
 
 더보기:
 - [love.filesystem.newFileData](https://love2d.org/wiki/love.filesystem.newFileData_(한국어))
-- [Data](api/data)
-- [Object](api/love?id=Object)
+- [Data](ko-kr/api/data)
+- [Object](ko-kr/api/love?id=Object)
 
 | 이름                                                                   | 설명                                   | 비고  |
 |------------------------------------------------------------------------|---------------------------------------|-------|

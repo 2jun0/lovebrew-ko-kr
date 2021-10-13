@@ -79,7 +79,7 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 </b></i>
 
 더보기:
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 
 | 이름                                                                    | 설명                                       | 비고  |
 |-------------------------------------------------------------------------|-------------------------------------------|-------|
@@ -103,7 +103,7 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 
 더보기:
 * [Texture](#texture)
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 * [love.graphics.newCanvas (영문)](https://love2d.org/wiki/love.graphics.newCanvas)
 
 | 이름                                                       | 설명                                | 비고  |
@@ -116,11 +116,11 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 그릴 수 있는 이미지 타입입니다.
 </b></i>
 
-!> 3DS에서 이미지는 `*.t3x` 포맷으로 변환되어야 합니다. [호환성](compatibility?id=그리기)항목을 참조하세요.
+!> 3DS에서 이미지는 `*.t3x` 포맷으로 변환되어야 합니다. [호환성](ko-kr/compatibility?id=그리기)항목을 참조하세요.
 
 더보기:
 * [Texture](#texture)
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 * [love.graphics.newImage (영문)](https://love2d.org/wiki/love.graphics.newImage)
 
 ### Quad
@@ -131,7 +131,7 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 </b></i>
 
 더보기:
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 * [love.graphics.newQuad (영문)](https://love2d.org/wiki/love.graphics.newQuad)
 
 | 이름                                                                             | 설명                                                                    | 비고  |
@@ -149,10 +149,10 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 스크린위에 그려질 문자의 형상을 정의합니다.
 </b></i>
 
-!> 3DS에선 글꼴을 사용하기 전에 `*.bcfnt` 포맷으로 변환해야 합니다. [호환성](compatibility?id=시스템 글꼴 불러오기)항목을 참고하세요.
+!> 3DS에선 글꼴을 사용하기 전에 `*.bcfnt` 포맷으로 변환해야 합니다. [호환성](ko-kr/compatibility?id=시스템 글꼴 불러오기)항목을 참고하세요.
 
 더보기:
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 * [love.graphics.newFont (영문)](https://love2d.org/wiki/love.graphics.newFont)
 
 | 이름                                                       | 설명                            | 비고  |
@@ -167,7 +167,7 @@ LÖVE는 좌상단 우선 좌표계를 사용합니다. x축은 수평이며, �
 </b></i>
 
 더보기:
-* [Object](api/love?id=Object)
+* [Object](ko-kr/api/love?id=Object)
 * [love.graphics.newText (영문)](https://love2d.org/wiki/love.graphics.newText)
 
 | 이름                                                               | 설명                                                    | 비고                                                                           |

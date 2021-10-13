@@ -9,7 +9,7 @@
 
 자신만의 비주얼 노벨을 쓰려면 데모 게임을 다운로드하고 novel.lua를 편집하는 것이 좋습니다. LoveStory 사용 방법에 대한 전체 설명서는 LoveStory 설명서 PDF(itch.io 페이지) 에서 찾을 수 있습니다.
 
-![LoveStory 게임 스크린샷](/showcase/lovestory.png)
+![LoveStory 게임 스크린샷](../showcase/lovestory.png)
 
 ### DDLC-LOVE
 #### by **LGD**
@@ -21,14 +21,14 @@
 넌 부원으로서, 내 꿈이 이 귀여운 게임에서 현실이 되도록 도와주는 게 네 일이야!
 귀엽고 사랑스러운 내 부원들과 매일 수다를 떨고, 재미있는 부활동만 하면 돼.
 
-![ddlc-love 게임 스크린샷](/showcase/ddlc-love.png)
+![ddlc-love 게임 스크린샷](../showcase/ddlc-love.png)
 
 ### Mamono Sweeper Switch
 #### by Maurice
 
 [Mamono Sweeper Switch](https://github.com/Stabyourself/mamono-sweeper-switch)는 [Mamono Sweeper](http://www.hojamaka.com/game/mamono_sweeper_h/html5/en.html)게임의 홈브류 복사본입니다.
 
-![Mamono Sweeper Switch 플레이 기기 사진](/showcase/mamono-sweeper-switch.png)
+![Mamono Sweeper Switch 플레이 기기 사진](../showcase/mamono-sweeper-switch.png)
 
 ## 닌텐도 3DS
 

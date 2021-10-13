@@ -32,7 +32,7 @@
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 - [love.math.newRandomGenerator](https://love2d.org/wiki/love.math.newRandomGenerator_(한국어))
 
 | 이름                                                                          | 설명                                                | 비고  |
@@ -52,7 +52,7 @@ love.graphics 모듈 함수에서 인자로 사용됩니다.
 </b></i>
 
 더보기:
-- [Object](api/love?id=Object)
+- [Object](ko-kr/api/love?id=Object)
 - [love.math.newTransform (영문)](https://love2d.org/wiki/love.math.newTransform)
 
 | 이름                                                                                     | 설명                                                                                  | 비고  |

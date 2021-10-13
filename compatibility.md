@@ -18,7 +18,7 @@ end
 
 현재 `screen` 매개변수는 `left`혹은 `right`, `bottom`세 문자열 중 하나로 전달됩니다. `left`와 `right`는 상단에 있는 화면으로 3D 깊이 기능과 관련되어 있습니다. 
 
-또한, 텍스쳐(png, jpg 파일)는 `tex3ds`을 사용해서 닌텐도 3DS에서 t3x 포맷으로 변경해야 합니다. devkitpro-pacman에서 제공하고 있으니 [개발환경 설정하기](https://turtlep.github.io/LovePotion/wiki/#/packaging?id=전제조건)에서 자세한 정보를 참고하세요.
+또한, 텍스쳐(png, jpg 파일)는 `tex3ds`을 사용해서 닌텐도 3DS에서 t3x 포맷으로 변경해야 합니다. devkitpro-pacman에서 제공하고 있으니 [개발환경 설정하기](https://turtlep.github.io/LovePotion/wiki/#/packaging?id=prerequisite)에서 자세한 정보를 참고하세요.
 
 ## 시스템 글꼴 불러오기
 
@@ -44,7 +44,7 @@ end
 | korean                      | 한국어 글꼴                         |
 | nintendo extended           | 닌텐도 확장 기호 글꼴      |
 
-사용자 지정 글꼴의 경우 `mkbcfnt`를 사용하여 TrueType 또는 OpenType 글꼴을 bfnt로 변환해야 합니다. devkitpro-pacman에서 제공하고 있으니 [개발환경 설정하기](https://turtlep.github.io/LovePotion/wiki/#/packaging?id=전제조건)에서 자세한 정보를 참고하세요. 닌텐도 3DS의 스탠다드(standard) 글꼴은 Play Coin 아이콘과 같은 다양한 기호들에 대한 글리프(glyph) 데이터를 보유하고 있습니다. 하지만, 다음과 같이 이 글자들은 닌텐도 스위치의 닌텐도 확장 기호 글꼴에 저장됩니다.
+사용자 지정 글꼴의 경우 `mkbcfnt`를 사용하여 TrueType 또는 OpenType 글꼴을 bfnt로 변환해야 합니다. devkitpro-pacman에서 제공하고 있으니 [개발환경 설정하기](https://turtlep.github.io/LovePotion/wiki/#/packaging?id=prerequisite)에서 자세한 정보를 참고하세요. 닌텐도 3DS의 스탠다드(standard) 글꼴은 Play Coin 아이콘과 같은 다양한 기호들에 대한 글리프(glyph) 데이터를 보유하고 있습니다. 하지만, 다음과 같이 이 글자들은 닌텐도 스위치의 닌텐도 확장 기호 글꼴에 저장됩니다.
 
 ```lua
 local utf8 = require("utf8")
@@ -110,11 +110,11 @@ LÖVE Potion의 3DS와 스위치 버전 모두 아래의 상수들이 있습니�
 
 ### 닌텐도 3DS
 
-![닌텐도 3DS 컨트롤러 키 매핑](files/3DSControllerMap.png)
+![닌텐도 3DS 컨트롤러 키 매핑](../files/3DSControllerMap.png)
 
 ### 닌텐도 스위치
 
-![닌텐도 스위치 컨트롤러 키 매핑](files/SwitchControllerMap.png)
+![닌텐도 스위치 컨트롤러 키 매핑](../files/SwitchControllerMap.png)
 
 ## 기타
 
@@ -149,7 +149,7 @@ end
 
 ## 게임 디버깅
 
-?> 이 섹션이 업데이트가 된 이유가 궁금하십니까? [FAQ를 확인하십시오](faq?id=게임-디버깅하는-데-왜-이렇게-오래-걸려요)!
+?> 이 섹션이 업데이트가 된 이유가 궁금하십니까? [FAQ를 확인하십시오](ko-kr/faq?id=게임-디버깅하는-데-왜-이렇게-오래-걸려요)!
 
 LöVE Potion 게임의 디버깅은 항상 큰 골칫거리였다. 특히 닌텐도 스위치에서는 복잡한 문제로 툴체인 제공 콘솔을 사용할 수 없었습니다. 그러나, 사용자들은 이제 프린트 출력을 위해 스위치에서 nxlink를 사용할 수 있고 심지어 3DS의 gdb 디버거도 사용할 수 있다. 간단히 conf.lua 안에서 콘솔 플래그를 활성화하라!
 
@@ -157,7 +157,7 @@ LÖVE Potion 게임의 디버깅은 항상 큰 골칫거리였습니다. 특히 
 
 ### 닌텐도 3DS
 
-이는 좀 더 깊고 복잡하지만, 개발자들은 [개발 환경 설정](building?id=시작하기)를 따라야 합니다. devkitpro-pacman이 설치되면 3DS gdb 컴포넌트들을 설치하세요.
+이는 좀 더 깊고 복잡하지만, 개발자들은 [개발 환경 설정](ko-kr/building?id=시작하기)를 따라야 합니다. devkitpro-pacman이 설치되면 3DS gdb 컴포넌트들을 설치하세요.
 
 <!-- tabs:start -->
 

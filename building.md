@@ -32,7 +32,7 @@ sudo (dkp-)pacman -S switch-dev 3ds-dev devkit-env
 ```
 <!-- tabs:end -->
 
-!> 다음 정보는 개발 목적으로만 제공됩니다! 프로그래밍을 이해하지 못하거나 기여하지 않을 경우 LÖVE Potion을 직접 빌드하지 마십시오. 이는 [비표준화 문제 (영문)](https://en.wikipedia.org/wiki/Market_fragmentation))를 야기할 수 있습니다. 배포용 게임을 패키징하려면 [게임 배포](packaging)를 참조하십시오.
+!> 다음 정보는 개발 목적으로만 제공됩니다! 프로그래밍을 이해하지 못하거나 기여하지 않을 경우 LÖVE Potion을 직접 빌드하지 마십시오. 이는 [비표준화 문제 (영문)](https://en.wikipedia.org/wiki/Market_fragmentation))를 야기할 수 있습니다. 배포용 게임을 패키징하려면 [게임 배포](ko-kr/packaging)를 참조하십시오.
 
 그런 다음 저장소를 복제합니다. 코드를 기여하는 경우 [fork한 후 로컬로 복제하세요 (영문)](https://help.github.com/articles/fork-a-repo/). 이후, 터미널에서 복제된 LÖVE Potion 디렉터리로 이동합니다.
 
