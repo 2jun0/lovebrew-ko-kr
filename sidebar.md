@@ -1,0 +1,33 @@
+- **메인**
+- [홈 메뉴](ko-kr//)
+- [LÖVE Potion 빌드](ko-kr/building)
+- [호환성](ko-kr/compatibility)
+- [게임 배포](ko-kr/packaging)
+- [LÖVEBrew 튜토리얼](ko-kr/lovebrew)
+- **기타**
+- [FAQ](ko-kr/faq)
+- [쇼케이스](ko-kr/showcase)
+- [크레딧](ko-kr/credits)
+- **API 레퍼런스**
+- [love](ko-kr/api/love)
+- [love.audio](ko-kr/api/audio)
+- [love.data](ko-kr/api/data)
+- [love.event](ko-kr/api/event)
+- [love.filesystem](ko-kr/api/filesystem)
+- [love.font](ko-kr/api/font)
+- [love.graphics](ko-kr/api/graphics)
+- [love.joystick](ko-kr/api/joystick)
+- [love.keyboard](ko-kr/api/keyboard)
+- [love.math](ko-kr/api/math)
+- [love.sound](ko-kr/api/sound)
+- [love.system](ko-kr/api/system)
+- [love.thread](ko-kr/api/thread)
+- [love.timer](ko-kr/api/timer)
+- [love.touch](ko-kr/api/touch)
+- [love.window](ko-kr/api/window)
+- **참고자료**
+- [![디스코드](https://icongr.am/simple/discord.svg?colored&size=16)디스코드](https://discord.gg/ggbKkhc)
+- [![LÖVE 하는 방법](https://icongr.am/simple/readthedocs.svg?colored&size=16)LÖVE 하는 방법](https://sheepolution.com/learn/book/contents)
+- **후원**
+- [![paypal후원 링크](https://icongr.am/simple/buymeacoffee.svg?colored&size=16)커피한잔 사주기](https://paypal.me/TurtleP)
+- [![patreon후원 링크](https://icongr.am/simple/patreon.svg?colored&size=16)devkitPro를 후원하기](https://www.patreon.com/devkitPro)
