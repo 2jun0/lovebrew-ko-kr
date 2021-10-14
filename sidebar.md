@@ -1,5 +1,5 @@
 - **메인**
-- [홈 메뉴](ko-kr//)
+- [홈 메뉴](ko-kr/)
 - [LÖVE Potion 빌드](ko-kr/building)
 - [호환성](ko-kr/compatibility)
 - [게임 배포](ko-kr/packaging)
